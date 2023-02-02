@@ -15,4 +15,5 @@ body {
     background-color: darkgray;
     color: white;
     padding: 10px 20px;
+    vertical-align: bottom;
   }
