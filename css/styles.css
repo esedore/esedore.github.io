@@ -19,7 +19,7 @@ body {
   }
 
 .sidebar {
-    display: flex;
+    display: inline;
     align-items: center;
     background-color: rgb(117, 148, 150);
 }
