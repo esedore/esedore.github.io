@@ -22,5 +22,7 @@ body {
 .sidebar {
     display: inline;
     align-items: center;
-    background-color: rgb(117, 148, 150);
+    background-color: rgb(87, 104, 105);
+    font-size: medium;
+    color: white;
 }
