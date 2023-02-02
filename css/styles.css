@@ -19,5 +19,6 @@ body {
   }
 
 .sidebar {
-    style:"width:25%"
+    style:"width:25%";
+    background-color: rgb(117, 148, 150);
 }
