@@ -4,5 +4,6 @@ body {
   
   h1 {
     color: navy;
-    margin-left: 20px;
+    align: center;
+    border: 10px solid rgb(28, 173, 192);
   }
