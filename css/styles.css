@@ -17,3 +17,7 @@ body {
     padding: 10px 20px;
     vertical-align: bottom;
   }
+
+.sidebar {
+    style:"width:25%"
+}
