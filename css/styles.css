@@ -8,3 +8,8 @@ body {
     border: 10px solid rgb(28, 173, 192);
     border-radius: 10px;
   }
+
+  footer {
+    display: block;
+    background-color: darkgray;
+  }
