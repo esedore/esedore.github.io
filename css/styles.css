@@ -20,5 +20,6 @@ body {
 
 .sidebar {
     style:"width:25%";
+    margin-left:25%;
     background-color: rgb(117, 148, 150);
 }
