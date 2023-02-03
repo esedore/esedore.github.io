@@ -1,8 +1,9 @@
+@import "compass/css3";
 body {
     background-color: lightblue;
 }
   
-h1 {
+.header{
     color: navy;
     background-color: antiquewhite;
     text-align: center;
