@@ -23,9 +23,22 @@ footer {
 
 .sidebar {
     display: inline;
-    align-items: center;
+    justify-content: center;
     background-color: rgb(87, 104, 105);
     font-size: medium;
     font-family: 'Courier New', Courier, monospace;
     color: white;
 }
+
+.nav-box > .sidebar{
+    max-width: 0;
+    animation: typing 3s steps(var(--characters)) infinite;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.nav-box::after {
+    content: " |";
+    animation: blink 1s infinite;
+    animation-timing-function: step-end;
+  }
