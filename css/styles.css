@@ -3,7 +3,7 @@ body {
     background: radial-gradient(circle, lightblue 63%, rgb(38, 38, 245) 95%); 
 }
 
-a:link {
+a.link {
     text-decoration: none;
     color: white;
     font-family: 'Courier New', Courier, monospace;
@@ -50,7 +50,7 @@ a.click{
     bottom: 0;
     width: 100%;
     margin-left: 5px;
-    margin-right: 5px;
+    margin-right: 5px;a
 }
 
 .github {
@@ -62,6 +62,12 @@ a.click{
 }
 
 .gallery {
+    text-align: center;
+    align-items: center;
+    vertical-align: middle;
+}
+
+.instagram-media {
     text-align: center;
     align-items: center;
     vertical-align: middle;
