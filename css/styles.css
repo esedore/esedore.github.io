@@ -7,6 +7,10 @@ a:link {
     text-decoration: none;
 }
 
+a.click{
+    color: rgb(34, 206, 34);
+}
+
 .name{
     color: navy;
     background-color: antiquewhite;
