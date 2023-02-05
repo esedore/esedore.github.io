@@ -1,15 +1,17 @@
 body {
     background: rgb(92,235,204);
-    background: radial-gradient(circle, rgba(92,235,204,1) 63%, rgba(9,9,121,1) 95%, rgba(75,231,87,1) 99%); 
+    background: radial-gradient(circle, rgba(92,235,204,1) 63%, rgba(9,9,121,1) 95%); 
 }
 
 a:link {
     text-decoration: none;
     color: white;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 a.click{
     color: rgb(34, 206, 34);
+    
 }
 
 .name{
@@ -27,7 +29,6 @@ a.click{
     align-items: center;
     position: relative;
     text-align: center;
-    text-decoration: none;
     padding:30px 30px;
     position: absolute;
     height: 50px;
@@ -36,11 +37,9 @@ a.click{
 }
 
 .nav ul {
-    display: inline;
     justify-content: center;
     background-color: rgb(87, 104, 105);
     font-size: medium;
-    font-family: 'Courier New', Courier, monospace;
 }
 
 .footer {
