@@ -1,5 +1,6 @@
 body {
-    background-color: lightblue;
+    background: rgb(92,235,204);
+    background: radial-gradient(circle, rgba(92,235,204,1) 63%, rgba(9,9,121,1) 95%, rgba(75,231,87,1) 99%); 
 }
 
 a:link {
