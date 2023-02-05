@@ -65,10 +65,14 @@ a.click{
     text-align: center;
     align-items: center;
     vertical-align: middle;
+    display: flex;
+    flex-direction: row;
 }
 
 .instagram-media {
     text-align: center;
     align-items: center;
     vertical-align: middle;
+    display: flex;
+    flex-direction: row;
 }
