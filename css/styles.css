@@ -31,17 +31,16 @@ a.click{
     position: absolute;
     height: 50px;
     width: 50px;
+    text-align: center;
 }
 
-.sidebar {
+.nav ul {
     display: inline;
-    text-align: center;
     justify-content: center;
     background-color: rgb(87, 104, 105);
     font-size: medium;
     font-family: 'Courier New', Courier, monospace;
     color: white;
-    list-style-type: none;
 }
 
 .footer {
