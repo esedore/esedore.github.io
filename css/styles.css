@@ -28,4 +28,5 @@ body {
     font-size: medium;
     font-family: 'Courier New', Courier, monospace;
     color: white;
+    list-style-type: none;
 }
