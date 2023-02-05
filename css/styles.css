@@ -1,7 +1,10 @@
 body {
     background-color: lightblue;
 }
-  
+
+a:link {
+    text-decoration: none;
+}
 .name{
     color: navy;
     background-color: antiquewhite;
@@ -14,6 +17,7 @@ body {
 
 .sidebar {
     display: inline;
+    text-align: center;
     justify-content: center;
     background-color: rgb(87, 104, 105);
     font-size: medium;
@@ -37,5 +41,4 @@ body {
     border-top: 10px solid rgb(39, 203, 214);
     border-radius: 10px;
     padding: 10px 20px;
-    text-decoration: none;
 }
