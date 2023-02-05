@@ -28,12 +28,8 @@ a.click{
     display: inline-block;
     align-items: center;
     background-color: rgb(87, 104, 105);f
-    position: relative;
     text-align: center;
     padding:30px 30px;
-    position: absolute;
-    height: 50px;
-    width: 50px;
     text-align: center;
 }
 
