@@ -12,6 +12,16 @@ body {
     font-family: 'Courier New', Courier, monospace;
 }
 
+.sidebar {
+    display: inline;
+    justify-content: center;
+    background-color: rgb(87, 104, 105);
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    list-style-type: none;
+}
+
 .footer {
     display: block;
     background-color: darkgray;
@@ -21,12 +31,8 @@ body {
     vertical-align: bottom;
 }
 
-.sidebar {
-    display: inline;
-    justify-content: center;
-    background-color: rgb(87, 104, 105);
-    font-size: medium;
-    font-family: 'Courier New', Courier, monospace;
-    color: white;
-    list-style-type: none;
+.github {
+    border-top: 10px solid rgb(39, 203, 214) !important;
+    border-radius: 10px;
+    padding: 10px 20px;
 }
