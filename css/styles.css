@@ -16,6 +16,7 @@ footer {
     display: block;
     background-color: darkgray;
     color: white;
+    font-family: 'Courier New', Courier, monospace;
     padding: 10px 20px;
     vertical-align: bottom;
 }
@@ -40,4 +41,4 @@ footer {
     content: " |";
     animation: blink 1s infinite;
     animation-timing-function: step-end;
-  }
+}
