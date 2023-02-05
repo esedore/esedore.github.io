@@ -31,8 +31,6 @@ a.click{
     position: absolute;
     height: 50px;
     width: 50px;
-    top:calc(50% - 50px/2); /* height divided by 2*/
-    left:calc(50% - 50px/2); /* width divided by 2*/
 }
 
 .sidebar {
@@ -48,11 +46,18 @@ a.click{
 
 .footer {
     display: block;
+    position: fixed;
     background-color: darkgray;
     color: white;
     font-family: 'Courier New', Courier, monospace;
     padding: 10px 20px;
     vertical-align: bottom;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    bottom: 0;
+    width: 80%;
+    padding: 20px;
 }
 
 .github {
