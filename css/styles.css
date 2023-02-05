@@ -24,7 +24,11 @@ a:link {
     text-align: center;
     text-decoration: none;
     padding:30px 30px;
-    vertical-align: middle;
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    top:calc(50% - 50px/2); /* height divided by 2*/
+    left:calc(50% - 50px/2); /* width divided by 2*/
 }
 
 .sidebar {
