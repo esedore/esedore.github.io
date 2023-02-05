@@ -58,3 +58,9 @@ a.click{
     border-radius: 10px;
     padding: 10px 20px;
 }
+
+.gallery {
+    text-align: center;
+    align-items: center;
+    vertical-align: middle;
+}
