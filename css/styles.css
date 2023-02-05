@@ -32,7 +32,10 @@ body {
 }
 
 .github {
-    border-top: 10px solid rgb(39, 203, 214) !important;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    border-top: 10px solid rgb(39, 203, 214);
     border-radius: 10px;
     padding: 10px 20px;
+    text-decoration: none;
 }
