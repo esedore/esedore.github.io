@@ -17,6 +17,15 @@ a:link {
     font-family: 'Courier New', Courier, monospace;
 }
 
+.nav {
+    display: inline-block;
+    align-items: center;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    padding:30px 30px;
+}
+
 .sidebar {
     display: inline;
     text-align: center;
