@@ -27,7 +27,7 @@ a.click{
 .nav {
     display: inline-block;
     align-items: center;
-    background-color: rgb(87, 104, 105);
+    background-color: rgb(87, 104, 105);f
     position: relative;
     text-align: center;
     padding:30px 30px;
@@ -37,7 +37,7 @@ a.click{
     text-align: center;
 }
 
-.nav ul {
+.nav a {
     justify-content: center;
     font-size: medium;
 }
