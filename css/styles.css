@@ -1,6 +1,6 @@
 body {
     background: rgb(92,235,204);
-    background: radial-gradient(circle, rgba(92,235,204,1) 63%, rgba(9,9,121,1) 95%); 
+    background: radial-gradient(circle, rgba(92,235,204,1) 63%, rgb(38, 38, 245) 95%); 
 }
 
 a:link {
@@ -27,6 +27,7 @@ a.click{
 .nav {
     display: inline-block;
     align-items: center;
+    background-color: rgb(87, 104, 105);
     position: relative;
     text-align: center;
     padding:30px 30px;
@@ -38,7 +39,6 @@ a.click{
 
 .nav ul {
     justify-content: center;
-    background-color: rgb(87, 104, 105);
     font-size: medium;
 }
 
