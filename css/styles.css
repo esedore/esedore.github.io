@@ -58,6 +58,7 @@ a.click{
     max-width: 900px;
     margin-left: auto;
     margin-right: auto;
+    color: rgb(35, 15, 150);
     padding-top: 2em;
     padding-bottom: 2em;
     font-family: 'Courier New', Courier, monospace;
