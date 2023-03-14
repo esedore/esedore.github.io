@@ -27,8 +27,8 @@ a.click{
   border-bottom: 1px solid rgb(4, 70, 114);
 }
 
-.media{
-    width: 80px;
+.badges{
+    max-width: 80px;
 }
 
 .nav {
