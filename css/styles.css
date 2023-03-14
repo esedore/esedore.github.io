@@ -28,9 +28,13 @@ a.click{
 }
 
 .media{
-    max-width: 80px;
+    max-width: 310px;
     align-items: center;
     display: inline-block;
+}
+
+.badges{
+    max-width: 85px;
 }
 
 .nav {
