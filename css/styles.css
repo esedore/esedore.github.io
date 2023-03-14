@@ -29,14 +29,14 @@ a.click{
 
 .media{
     max-width: 80px;
+    align-items: center;
+    display: inline-block;
 }
 
 .nav {
     display: inline-block;
     align-items: center;
     background-color: rgb(87, 104, 105);
-    text-align: center;
-    padding:30px 30px;
     text-align: center;
 }
 
