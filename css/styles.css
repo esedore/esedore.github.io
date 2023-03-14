@@ -28,6 +28,7 @@ a.click{
 }
 
 .media{
+    padding: 25px 25px;
     max-width: 400px;
     max-height: 311px;
     align-items: center;
@@ -37,7 +38,7 @@ a.click{
 
 .badges{
     max-width: 85px;
-    max-height: 88px;
+    max-height: 31px;
 }
 
 .nav {
