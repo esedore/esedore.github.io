@@ -1,6 +1,6 @@
 $(document).ready(function() {
     $(".active").show();
-    $("#slider-div").hover(function(){$(".btn-carousel").show();},function(){$(".btn-carousel").hide();})
+    $(".slider-div").hover(function(){$(".btn-carousel").show();},function(){$(".btn-carousel").hide();})
     $(".btn-carousel").on('click',function(){
         var id = $(this).attr('id');
         var nav;
