@@ -79,20 +79,14 @@ a.click{
     text-decoration: none;
 }
 
-.github {
+.links {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     border-top: 10px solid rgb(72, 35, 206);
     border-radius: 10px;
     padding: 10px 20px;
 }
-.htb {
-    text-align: center;
-    font-family: 'Courier New', Courier, monospace;
-    border-top: 10px solid rgb(72, 35, 206);
-    border-radius: 10px;
-    padding: 10px 20px;
-}
+
 .gallery {
     text-align: center;
     align-items: center;
