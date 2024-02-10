@@ -107,3 +107,7 @@ a.click{
     display: flex;
     flex-direction: row;
 }
+
+.container {
+    background: lightblue; /* Change this to your desired color */
+}
