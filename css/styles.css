@@ -76,7 +76,7 @@ a.click{
     background-color: darkgray;
     color: rgb(35, 15, 150);
     font-family: 'Courier New', Courier, monospace;
-    padding: 10px 20px;
+    padding: 10px 0;
     vertical-align: bottom;
     text-align: center;
     bottom: 0;

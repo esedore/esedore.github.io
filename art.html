@@ -1,17 +1,20 @@
 <!DOCTYPE html>
 <html>
-<title>Acrylic Auth</title>
 <head>
+    <title>Acrylic Auth</title>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/css/styles.css">
-    <script type="text/javascript"
-		src="https://code.jquery.com/jquery-3.6.4.js"
-		integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E="
-		crossorigin="anonymous">
-    </script>
-    <script type="text/javascript" src="js/carousel.js"></script>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+    <!-- Bootstrap JS (Popper.js and Bootstrap JS) -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
     <audio autoplay>
         <source src="media/Cosmos - Antipode.mp3" type="audio/mpeg" />
     </audio>
@@ -35,20 +38,43 @@
         </span>
     </nav>
     </h1>
-<div class="slider-div">
-        <img class="active" src="art/planetB.jpg">
-        <img src="art/dune.jpg">
-        <img src="art/lutzerath.jpg">
-        <img src="art/berserk.jpg">
-        <img src="art/eva.jpg">
-        <img src="art/flowerpot.jpg">
-        <img src="art/lighthouse2.jpg">
-        <img src="art/lighthouse.jpg">
-        <img src="art/pumpkin.jpg">
-        <img src="art/weary.jpg">
-        <div class="btn-carousel" id="previous"></div>
-        <div class="btn-carousel" id="next">></div>	
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+            <img src="art/planetB.jpg" class="img-fluid">
+        </div>
+        <div class="col-md-4">
+            <img src="art/dune.jpg" class="img-fluid">
+        </div>
+        <div class="col-md-4">
+            <img src="art/lighthouse.jpg" class="img-fluid">
+        </div>
+        <div class="col-md-4">
+            <img src="art/lighthouse2.jpg" class="img-fluid">
+        </div>
+        <div class="col-md-4">
+            <img src="art/berserk.jpg" class="img-fluid">
+        </div>
+        <div class="col-md-4">
+            <img src="art/eva.jpg" class="img-fluid">
+        </div>
+        <div class="col-md-4">
+            <img src="art/flowerpot.jpg" class="img-fluid">
+        </div>
+        <div class="col-md-4">
+            <img src="art/pumpkin.jpg" class="img-fluid">
+        </div>
+        <div class="col-md-4">
+            <img src="art/weary.jpg" class="img-fluid">
+        </div>
+        <div class="col-md-4">
+            <img src="art/20220104_150837.jpg" class="img-fluid">
+        </div>
+        <!-- Add more columns for other images -->
+    </div>
 </div>
+
 <footer class="footer">hosted with GitHub Pages.
     <img class="badges" src="badges/rush2112.gif">
     <span> </span>
